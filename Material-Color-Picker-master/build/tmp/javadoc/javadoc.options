@@ -1,0 +1,7 @@
+-classpath 'C:\\Android\\sdk\\platforms\\android-23\\android.jar'
+-d 'C:\\Users\\H P\\Videos\\GeoFenceDemo-1\\GeoFenceDemo\\Material-Color-Picker-master\\build\\docs\\javadoc'
+-doctitle 'Material-Color-Picker-master 1.0.1 API'
+-quiet 
+-windowtitle 'Material-Color-Picker-master 1.0.1 API'
+'C:\\Users\\H P\\Videos\\GeoFenceDemo-1\\GeoFenceDemo\\Material-Color-Picker-master\\src\\main\\java\\com\\turkialkhateeb\\materialcolorpicker\\ColorChooserDialog.java'
+'C:\\Users\\H P\\Videos\\GeoFenceDemo-1\\GeoFenceDemo\\Material-Color-Picker-master\\src\\main\\java\\com\\turkialkhateeb\\materialcolorpicker\\ColorListener.java'
